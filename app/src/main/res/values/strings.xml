@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecureCommunications</string>
+    <string name="enter_your_message_here">Enter your message here...</string>
+    <string name="send_message">Send Message</string>
+    <string name="to_be_displayed">(to be displayed)</string>
+    <string name="enter_message">Enter message:</string>
+    <string name="returned_message">Returned message</string>
+</resources>
